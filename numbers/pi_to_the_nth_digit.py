@@ -18,4 +18,3 @@ try:
 
 except:
 	print("Invalid input")
-
