@@ -1,3 +1,5 @@
+# Enter a n number to get a n the fibonacci sequence of that number
+
 def fibonacci(n):
 	if n == 1 or n == 2:
 		return 1

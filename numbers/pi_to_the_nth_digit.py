@@ -1,3 +1,5 @@
+# Enter a n number to get a n decimal place of the prime number
+
 import math, decimal
 
 decimal_place = input("Enter the decimal place for PI (48 max): ")

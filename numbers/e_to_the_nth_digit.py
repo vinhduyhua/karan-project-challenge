@@ -1,3 +1,5 @@
+# Enter a n number to get a n decimal place of the e number
+
 import math, decimal
 
 decimal_place = input("Enter the decimal place for PI (51 max): ")
